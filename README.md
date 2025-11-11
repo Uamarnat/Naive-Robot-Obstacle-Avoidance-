@@ -1,7 +1,7 @@
-# Differential Drive Robot Simulation using ROS 2 Humble and Gazebo Ignition Fortress
+# Obstacle Avoidance with Differential Drive Robot Simulation using ROS and Gazebo
 
-This project demonstrates a differential-drive robot equipped with a LiDAR sensor, simulated in **Gazebo Ignition Fortress** and integrated with **ROS 2 Humble** via the **ROS–Gazebo bridge**.  
-The setup includes a URDF-defined robot, a custom Gazebo world, a bridge connecting topics between Gazebo and ROS 2, and a Python-based obstacle avoidance node.
+This project demonstrates a differential-drive robot equipped with a LiDAR sensor, simulated in **Gazebo** with **ROS**.  
+The setup includes a URDF-defined robot, a custom Gazebo world, a bridge connecting topics between Gazebo and ROS 2, and a Python obstacle avoidance node.
 
 ---
 
